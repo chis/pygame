@@ -14,7 +14,7 @@ I'm unsure what tutorial I followed to construct this. It's a neat introduction 
 ![pycraft example](pycraft_example.png)
 
 ### Install
-```python
+```bash
 python3 -m venv venv
 source venv/bin/activate
 pip install pygame
