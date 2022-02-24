@@ -12,3 +12,12 @@ I'm unsure what tutorial I followed to construct this. It's a neat introduction 
 
 ### Example
 ![pycraft example](pycraft_example.png)
+
+### Install
+```python
+python3 -m venv venv
+source venv/bin/activate
+pip install pygame
+python3 myFirst.py 
+```
+
